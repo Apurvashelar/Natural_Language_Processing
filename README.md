@@ -1,9 +1,9 @@
 # Natural_Language_Processing
 
-### Discription  
+### Description  
 Natural language Processing commonly known as NLP is the sub-branch of Artificial Intelligence. There are many applications of NLP trending in the sector. One of the application is to predict the product ratings based on explicit reviews by the customers.  
 
-### How Doest It Works  
+### How Does It Works  
 By the reviews given by the customers, this NLP model will segreget the words as meaningful words which may help to predict the reviews and the words which are not useful for the prediction. With the help of this Bag of Words, our model will predict whether the review is positive or negative.
 
 ### Steps required  
@@ -17,5 +17,9 @@ By the reviews given by the customers, this NLP model will segreget the words as
 8. Predict test set results  
 
 
-### Installations  
+### Installations   
+1. import numpy as np
+2. import pandas as pd
+3. import re
+4. import nltk
 
